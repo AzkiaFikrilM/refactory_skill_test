@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257365446460",
+    "project_id": "flutter-test-skill",
+    "storage_bucket": "flutter-test-skill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257365446460:android:f3b2722ab214f0a5e41839",
+        "android_client_info": {
+          "package_name": "com.example.skill_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257365446460-hlqu28eva3u3uvdcavvg5057p8vnoaqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBj--kYenrQdl7apLzPrLd8LioTRW2194"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257365446460-hlqu28eva3u3uvdcavvg5057p8vnoaqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
